@@ -51,11 +51,6 @@
 
 </div>
 
-<div class="row" >
-   
-      <p><font size="5">  Internship at the digital team of the Department of the Treasury, Departmental Office, I have a huge chance to learn new things and to discover my ability of analyzing based on the technique that I have studied in the University of Maryland. By adopting a new environment of information technology, my internship routine involved in working on migration of Treasury.gov page, analyze data and create of Web form for code.gov. Besides, studying some coding languages such as HTML, CSS were my duties. My internship opened my mind about my career in the future very much because I am able to work in diversities fields which require analytical skills. </font> </p>
-       
- </div>
 
   <div class="row">
     <div class="col-4">
@@ -92,15 +87,15 @@
     <div class="col-3">
 <ul >
       <h4>Content Management Systems (CMS)</h4>
-      <li ><h5> Drupal</h5></li>
-      <li ><h5> SharePoint 2013</h5></li>
+      <li ><font size="5"> Drupal</font></li>
+      <li ><font size="5"> SharePoint 2013</font></li>
 <h4>Dashboards-as-a-Service</h4>
-      <li ><h5> Tableau</h5></li>
-      <li ><h5> SalesForce</h5></li>
+      <li ><font size="5">> Tableau</font></li>
+      <li ><font size="5">SalesForce</font></li>
 <h4>Premium Support</h4>
-      <li ><h5> Extended Service Desk Hours</h5></li>
-      <li ><h5> Enhanced Service Desk Service Level Objectives</h5></li>
-<li ><h5>Custom Support</h5></li>
+      <li ><font size="5"> Extended Service Desk Hours</font></li>
+      <li ><font size="5"> Enhanced Service Desk Service Level Objectives</font></li>
+<li ><font size="5">Custom Support</font></li>
 
 
 
@@ -110,27 +105,27 @@
     <div class="col-3" >
 <ul >
       <h4>Enterprise File Sharing and Sync</h4>
-      <li ><h5>. FileCloud</h5></li>
-<li ><h5> Box.com</h5></li>
-<li ><h5> SharePoint 2013</h5></li>
-<li ><h5> Drupal Web CMS (also SaaS)</h5></li>
-<li ><h5> Survey Gizmo</h5></li>
-<li ><h5> Salesforce (also SaaS)</h5></li>
-<li ><h5> Dashboards-as-a-Service (also SaaS)</h5></li>
+      <li ><font size="5"> FileCloud</font></li>
+<li ><font size="5"> Box.com</font></li>
+<li ><font size="5"> SharePoint 2013</font></li>
+<li ><font size="5"> Drupal Web CMS (also SaaS)</font></li>
+<li ><font size="5"> Survey Gizmo</font></li>
+<li ><font size="5"> Salesforce (also SaaS)</font></li>
+<li ><font size="5"> Dashboards-as-a-Service (also SaaS)</font></li>
 </ul>
     </div> 
    <div class="col-3" >
      <ul >
      <h4> Content Maintenance</h4>
-      <li ><h5> Critical Release Support</h5></li>
-<li ><h5> Service Desk</h5></li>
-<li ><h5> 508 Accessibility</h5></li>
-<li ><h5> Site Usability</h5></li>
-<li ><h5> Survey Gizmo</h5></li>
-<li ><h5> Web Analytics </h5></li>
+      <li ><font size="5"> Critical Release Support</font></li>
+<li ><font size="5"> Service Desk</font></li>
+<li ><font size="5"> 508 Accessibility</font></li>
+<li ><font size="5"> Site Usability</font></li>
+<li ><font size="5"> Survey Gizmo</font></li>
+<li ><font size="5"> Web Analytics </font></li>
    
 <h4>Application Lifecycle Management (ALM)</h4>
-      <li ><h5> Atlassian Suite – JIRA, BitBucket, Bamboo and Confluence</h5></li>
+      <li ><font size="5"> Atlassian Suite – JIRA, BitBucket, Bamboo and Confluence</font></li>
 
     </ul>
     </div>
@@ -143,22 +138,22 @@
     <div class="col-4"><br> <br> <br>
 <br>
 <h4> Role:</h4>
-<p><h5> UX/UI Designer , Content Manager, Data Analyst </h5> </p>
+<p><font size="5"> UX/UI Designer , Content Manager, Data Analyst </font> </p>
       <h4> Responsibilities:</h4>
      
-<li ><h5> Migration of Treasury.gov Pages</h5></li>
-<li ><h5> Participation in Daily Scrums for Treasury.gov and Interns</h5></li>
-<li ><h5> Creation of Web form for Code.gov</h5></li>
-<li ><h5> Creation of fillable PDF</h5></li>
-<li ><h5> Study coding HTML, CSS, Python</h5></li>
+<li ><font size="5"> Migration of Treasury.gov Pages</font></li>
+<li ><font size="5"> Participation in Daily Scrums for Treasury.gov and Interns</font></li>
+<li ><font size="5"> Creation of Web form for Code.gov</font></li>
+<li ><font size="5"> Creation of fillable PDF</font></li>
+<li ><font size="5"> Study coding HTML, CSS, Python</font></li>
      
   </div>
 
 
     <div class="col-6">
 <font size="6" color="blue">Son Phan </font>
-<h5>OCIO Intern at digital team </h5>
-      <img src="son1.jpg"  width="600"
+<font size="5">OCIO Intern at digital team </font>
+      <img src="son2.jpg"  width="500"
      height="600">
 
 </div>
